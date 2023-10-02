@@ -1,0 +1,7 @@
+char_no	character	location	singular/plural
+178	the prince	all over the world	singular
+453	the prince	his palace/the prince's palace/the palace/at home/home/his home/his castle/the castle	singular
+797	the king	the palace/outside/out/the castle/in his castle	singular
+850	the princess	outside the door/outside/out/the palace/the castle	singular
+1079	the queen	the palace/the castle/at home	singular
+1173	the queen	the bedroom/the palace/the castle/at home	singular

@@ -1,0 +1,32 @@
+char_no	character	location	singular/plural
+237	the boy's mother	the house/the boy's room/room/home	singular
+237	the boy	the house/in bed/bed/his room/room/the boy's room/home	singular
+401	the old man	the house/room/the boy's room/home	singular
+2397	the old woman	in the middle of the bush/bush/house/room/the boy's room/home	singular
+3253	the old wife	under the large blooming elder tree/under the elder tree/tree/in the corner of a little miserable court-yard/courtyard/yard	singular
+3253	the old seaman	under the large blooming elder tree/under the elder tree/tree/in the corner of a little miserable court-yard/courtyard/yard	singular
+3434	the old granny	in the tree/tree/elderbush/elder tree/bush/in the middle of the bush/in the middle of the elderbush	singular
+6583	their children	the courtyard	plural
+6583	their grandchildren	the courtyard	plural
+7721	the boy	old woman's bosom/on her bosom/house/tree	singular
+8391	the little maiden	the garden/the beautiful garden of their home/beautiful garden	singular
+8391	the boy	the garden/the beautiful garden of their home/beautiful garden	singular
+8779	the little maiden	round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+8779	the boy	round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+8931	the little maiden	round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+8931	the boy	round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9047	the little maiden	the country/round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9047	the boy	the country/round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9242	the little maiden	close to the church/round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9242	the boy	close to the church/round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9359	the little maiden	the smithy/round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9359	the boy	the smithy/round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9680	the little maiden	round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+9680	the boy	round the grass-plot/grass-plot/grass plot/round the lawn/lawn/the garden/the beautiful garden of their home/beautiful garden	singular
+13755	the old version of the boy	under the blooming tree/under the tree	singular
+13755	the boy's old wife	under the blooming tree/under the tree	singular
+14051	the little maiden	in the tree	singular
+15267	the boy	in his bed/in bed/bed/the house/room/the boy's room/home/his room/home	singular
+15554	the old man	out/away/not in the room/not in the boy's room	singular
+15608	the boy's mother	the boy's room/the house/room/his room/home	singular
+16050	the old Nanny	in the teapot/in the tea-pot	singular

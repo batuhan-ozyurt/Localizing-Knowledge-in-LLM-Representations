@@ -1,0 +1,23 @@
+char_no	character	location	singular/plural
+1405	the little boy	the window opposite the old house/window/home	singular
+2656	the little boy	the doorway/home/downstairs	singular
+2723	the man who went on errands	outside the boy's house/the boy's house/outside/past the house/on the street/out	singular
+3208	the little boy	the old house	singular
+3208	the old man	the old house	singular
+5041	the little boy	the room where the projecting windows were/the room/the old house/the old man's house/the old man's room	singular
+5069	the old man	the room where the projecting windows were/the room/the old house/the old man's house/the old man's room/home	singular
+7040	the old man	the other room/room/the old house/the old man's house/home	singular
+7175	the pewter soldier	on the drawers/drawers/the room/the old house/the old man's house	singular
+7807	the pewter soldier	on the drawers/drawers/the room/the old house/the old man's house/the room where the projecting windows were/the old man's room	singular
+8162	the old man	the room where the projecting windows were/the room/the old house/the old man's house/the old man's room/home	singular
+8324	the little boy	home	singular
+8465	the little boy	the old house/the old man's house	singular
+10633	the little boy	the old house/the old man's house/the room/the room where the projecting windows were/the old man's room	singular
+10718	the old man	the old house/the old man's house/the room/the room where the projecting windows were/the old man's room/home	singular
+11340	the pewter soldier	the old house/the old man's house/the room/the room where the projecting windows were/the old man's room/on the floor	singular
+11441	the pewter soldier	away	singular
+11614	the pewter soldier	the old house/the old man's house/the room/the room where the projecting windows were/the old man's room/on the floor/in a crevice/inside a crevice on the floor/a crevice	singular
+11661	the little boy	home	singular
+14011	the clever man	garden	singular
+14011	the wife	garden	singular
+14249	the pewter soldier	in the ground/in the garden/in the soft mould/mould	singular

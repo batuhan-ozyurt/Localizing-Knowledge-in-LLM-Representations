@@ -1,0 +1,16 @@
+char_no	character	location	singular/plural
+729	the weavers	the court	plural
+2691	the old minister	the hall	singular
+2743	the knaves	the hall	plural
+4732	the officer of the court	the hall	singular
+5815	the officers of the court	the hall	plural
+5815	the Emperor	the hall	singular
+8600	the Emperor	before the looking glass/in front of the looking glass	singular
+8600	the rogues	before the looking glass/in front of the looking glass	plural
+8888	the chief master of the ceremonies	the hall	singular
+9447	the lords of the bedchamber	in the midst of the procession/procession	plural
+9447	the Emperor	under his high canopy/under the canopy/in the midst of the procession/procession	singular
+9483	the lords of the bedchamber	in the midst of the procession/procession/through the streets of his capital/through the streets of the emperor's capital/through the streets of the capital/the streets	plural
+9483	the Emperor	under his high canopy/under the canopy/in the midst of the procession/procession/through the streets of his capital/the streets	singular
+10039	the child	procession/the streets	singular
+10097	the child's father	procession/the streets	singular

@@ -1,0 +1,15 @@
+char_no	character	location	singular/plural
+1226	the confectioner of the town	a clump of willows which grew on the skirts of the forest/a clump of willows/willows/the skirts of the forest/the forest/the woods	singular
+3124	the children	out of town	plural
+4383	the children	a clump of willows which grew on the skirts of the forest/a clup of willows/willows/the skirts of the forest/the forest/the woods/the willow tree	plural
+4383	the confectioner of the town	a clump of willows which grew on the skirts of the forest/a clump of willows/willows/the skirts of the forest/the forest/the woods/the willow tree	singular
+4729	the children	the wood/the forest/the woods/deep in the wood	plural
+5355	the children	a little house/the wood/the forest/the woods/deep in the wood	plural
+5899	the king's son	a little house/the wood/the forest/the woods/deep in the wood	singular
+6092	the king's son	the wood/the forest/the woods/deep in the wood	singular
+6556	the little boy	the wood/the forest/the woods/deep in the wood	singular
+6580	the boy in wooden shoes	the wood/the forest/the woods/deep in the wood	singular
+7620	the boy in wooden shoes	the wood/the forest/the woods/deep in the wood/the darkest, thickest part of the wood	singular
+7901	the apes	upon the trees/trees/the wood/the forest/the woods/deep in the wood	plural
+9520	the king's son	the summit/the wood/the forest/the woods/deep in the wood/rock/on top of the rock	singular
+10393	the boy in wooden shoes	the summit/the wood/the forest/the woods/deep in the wood/rock/on top of the rock	singular

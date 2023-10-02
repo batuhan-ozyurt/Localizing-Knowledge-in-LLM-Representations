@@ -1,0 +1,17 @@
+char_no	character	location	singular/plural
+434	the poor old man	inside the mother's house/inside the mother's home/in the room/in the house/in her room/inside her house/inside her home	singular
+434	the mother	at home with the child/inside the mother's house/inside the mother's home/in the room/in the house/in her room/inside her house/inside her home	singular
+434	the little child	at home with its mother/inside the mother's house/inside the mother's home/in the room/in the house/in her room/inside her house/inside her home	singular
+1480	Death	out/outside the mother's house/outside the mother's home/out of the room/out of the house/out of her room/out of her house/outside her home	singular
+1537	the little child	out/outside the mother's house/outside the mother's home/out of the room/out of the house/out of her room/out of her house/outside her home	singular
+1751	the mother	out/outside the mother's house/outside the mother's home/out of the room/out of the house/out of her room/out of her house/outside her home	singular
+1832	the woman in black clothes	in the midst of the snow/out/outside	singular
+2816	the mother	in the depths of the forest/in the forest	singular
+2847	the thorn-bush	in the depths of the forest/in the forest	singular
+3623	the mother	a large lake/by a large lake/near a large lake/around a large lake/by the lake/the lake/near the lake/around the lake/the large lake	singular
+4305	the mother	shore/opposite side of the lake/shore on the opposite side	singular
+5878	the mother	Death's great greenhouse/Death's greenhouse/great greenhouse/greenhouse	singular
+5878	the old woman	Death's great greenhouse/Death's greenhouse/great greenhouse/greenhouse	singular
+7377	Death	Death's great greenhouse/Death's greenhouse/great greenhouse/greenhouse	singular
+10197	Death	the unknown land	singular
+10197	the little child	the unknown land	singular

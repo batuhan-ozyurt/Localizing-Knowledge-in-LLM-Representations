@@ -1,0 +1,25 @@
+char_no	character	location	singular/plural
+61	the fir tree	out in the woods/in the woods/woods/the forest	singular
+2311	the swallows and the storks	out in the woods/in the woods/woods/the forest	plural
+3735	the sparrows	out in the woods/in the woods/woods/the forest	plural
+5708	the tree	in a court-yard/court-yard/yard	singular
+5882	the tree	into a large and splendid drawing-room/drawing-room/room/house	singular
+6485	the servants	in the room/room/drawing room/a large and splendid drawing-room/house	plural
+6485	the young ladies	in the room/room/drawing room/a large and splendid drawing-room/house	plural
+8101	the troop of children	in the room/room/drawing room/a large and splendid drawing-room/house	singular
+8136	the older persons	in the room/room/drawing room/a large and splendid drawing-room/house	plural
+8861	the old nurse	in the room/room/drawing room/a large and splendid drawing-room/house	singular
+9049	the fat man	in the room/room/drawing room/a large and splendid drawing-room/house	singular
+9086	the fat man	under the tree/in the room/room/drawing room/a large and splendid drawing-room/house	singular
+9112	the children	under the tree/in the room/room/drawing room/a large and splendid drawing-room/house	plural
+10756	the servant	in the room/room/drawing room/a large and splendid drawing-room/house	singular
+10756	the housemaid	in the room/room/drawing room/a large and splendid drawing-room/house	singular
+10888	the tree	upstairs/up the stairs/in the loft/house	singular
+10962	the tree	upstairs/up the stairs/in the loft/house/in a dark corner/dark corner/in a dark corner, where no daylight can enter	singular
+12001	the little mouse	in the hole/in his hole/in the loft/house	singular
+12099	the mice	in the loft/house	plural
+14162	the rats	in the loft/house	plural
+15332	the tree	out in the courtyard/in the courtyard/in the yard/out/outside	singular
+15853	the tree	in a corner/out in the courtyard/in the courtyard/in the yard/out/outside	singular
+16027	the children	in the court-yard/out in the courtyard/in the courtyard/in the yard/out/outside	plural
+16813	the gardener's boy	in the court-yard/out in the courtyard/in the courtyard/in the yard/out/outside	singular

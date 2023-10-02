@@ -1,0 +1,7 @@
+char_no	character	location	singular/plural
+295	the grasshopper	the room/the festival	singular
+295	the flea	the room/the festival	singular
+295	the leap-frog	the room/the festival	singular
+367	the king	the room/the festival	singular
+2554	the housedog	the room/the festival	singular
+2626	the princess	the room/the festival	singular

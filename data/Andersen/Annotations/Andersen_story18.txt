@@ -1,0 +1,40 @@
+char_no	character	location	singular/plural
+868	the large old lady	in a large old carriage/in a carriage/in the carriage/in the large old carriage	singular
+1535	Karen	in the castle/in her castle/in Karen's castle/in a castle	singular
+1633	Karen	in a window/in the window/in the castle/in her castle/in the castle's window/in Karen's castle/in a castle	singular
+2055	Karen	at his house/at his room/at the rich shoemaker's house/at the rich shoemaker's room/at the shoemaker's house/at the shoemaker's room	singular
+2055	the rich shoemaker	at his house/at his room/at the rich shoemaker's house/at the rich shoemaker's room/at the shoemaker's house/at the shoemaker's room	singular
+2228	the old lady	at his house/at his room/at the rich shoemaker's house/at the rich shoemaker's room/at the shoemaker's house/at the shoemaker's room	singular
+2827	Karen	the chancel door on the church pavement/on the church pavement/on the pavement/the chancel door/in the church	singular
+3087	the clergyman	in the church/on the church pavement/on the pavement	singular
+3832	Karen	the path through the corn/through the corn/the path	singular
+3832	the old lady	the path through the corn/through the corn/the path	singular
+3915	the old soldier	at the door/at the church door	singular
+4065	the old lady	at the door/at the church door	singular
+4105	Karen	at the door/at the church door	singular
+4315	Karen	in the church 	singular
+4315	the old lady	in the church	singular
+4696	the old lady	in the carriage/in her carriage/in the old lady's carriage	singular
+4739	Karen	next to the carriage/by the carriage/outside the church/outside the carriage	singular
+4767	the old soldier	next to the carriage/by the carriage/outside the church/outside the carriage/at the door/at the church door	singular
+4992	Karen	around the church/round the church/the church corner/outside the church	singular
+5077	the coachman	around the church/round the church/the church corner/outside the church	singular
+5112	Karen	in the carriage	singular
+5806	Karen	at the ball	singular
+5924	Karen	at the ball/in the room/in the ballroom/in the ball-room/on the dance floor	singular
+5986	Karen	in the street/in the streets/outside/out	singular
+6012	Karen	out of the city gate/out of the city	singular
+6082	Karen	in the gloomy wood/in the wood/in the woods	singular
+6251	the old soldier	in the gloomy wood/in the wood/in the woods	singular
+6652	Karen	the courtyard	singular
+6935	the angel	the open church door/the church door/the door	singular
+8027	Karen	by a little house/in front of a little house/before a little house/by a house/in front of a house/before a house	singular
+8216	the executioner	in his house/in his little house/in the executioner's house/inside his house/inside the house/in the house/in the little house/inside his little house/inside the little house	singular
+8983	Karen	near the church door/near the door	singular
+9428	Karen	the churchyard gate/churchyard	singular
+9541	Karen	the parsonage	singular
+10334	Karen	her little chamber/her chamber/her room/her little room	singular
+10691	the angel	her little chamber/her chamber/her room/her little room/before Karen/before her/in front of Karen/right before Karen/right before her	singular
+11276	Karen	her little chamber/her chamber/her room/her little room/in the church	singular
+11362	Karen	her little chamber/her chamber/her room/her little room/in the church/in the pew	singular
+11362	the clergyman's family	her little chamber/her chamber/her room/her little room/in the church/in the pew	singular

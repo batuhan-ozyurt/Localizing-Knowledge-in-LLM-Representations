@@ -1,0 +1,11 @@
+char_no	character	location	singular/plural
+205	the poor little girl	along the street/on the street/the streets/the street	singular
+1563	the little girl	in a corner formed by two houses/in a corner/the streets/the street	singular
+2422	the little girl	before a large iron stove/before a stove/in a corner formed by two houses/in a corner/the streets/the street	singular
+2729	the little girl	in a corner formed by two houses/in a corner/the streets/the street	singular
+3454	the little girl	under the most magnificent Christmas tree/under a Christmas tree/under the Christmas tree/in a corner formed by two houses/in a corner/the streets/the street	singular
+4256	the old grandmother	in the lustre/in the luster	singular
+4857	the little girl	on her grandmother's arm/in her grandmother's arms/on her arm/on her arms	singular
+4905	the little girl and her grandmother	in the sky/in brightness/aloft/high up/above	plural
+4996	the little girl and her grandmother	with God/in the sky/aloft/high up/above	plural
+5129	the poor girl	against the wall/in a corner formed by two houses/in a corner/the streets/the street	singular

@@ -1,0 +1,11 @@
+char_no	character	location	singular/plural
+372	the false collar	in company with a garter/in company with the garter/in the washing tub/with the garter	singular
+372	the garter	in company with the false collar/in the washing tub/with the false collar	singular
+1407	the false collar	out of the washing-tub	singular
+1471	the false collar	the back of a chair in the sunshine/the back of a chair/hanging over the back of a chair in the sunshine/haning over the back of a chair/in the sunshine	singular
+1513	the false collar	on the ironing-blanket/on the ironing blanket/on the blanket	singular
+1542	the warm box-iron	on the ironing-blanket/on the ironing blanket/on the blanket/with the false collar/in company with the false collar	singular
+1542	the false collar	on the ironing-blanket/on the ironing blanket/on the blanket/with the box-iron/with the box iron/in company with the box-iron/in company with the box iron	singular
+1768	the box-iron	on the ironing-blanket/on the ironing blanket/on the blanket/with the false collar/in company with the false collar/over the collar	singular
+2922	the false collar	the rag chest/the rag chest at the paper mill/at the paper mill	singular
+3032	the large company of rags	the rag chest/the rag chest at the paper mill/at the paper mill	singular

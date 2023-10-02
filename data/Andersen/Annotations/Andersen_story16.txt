@@ -1,0 +1,25 @@
+char_no	character	location	singular/plural
+490	Tuk	with his sister/with Augusta	singular
+490	Augusta	on Tuk's lap/on her brother's lap/on his lap	singular
+786	the mother	home/at home	singular
+844	Augusta	on her mother's arm	singular
+875	Tuk	by the window/next to the window/near the window	singular
+1109	the washerwoman	outside/over the way/on the way/on the street	singular
+1109	the mother	by the window/next to the window/near the window	singular
+1325	Tuk	outside/over the way/on the way/on the street/in company with the washerwoman/in company with the old washerwoman/with the washerwoman/with the old washerwoman	singular
+1386	Tuk	in the room	singular
+1555	Tuk	in his bed/in the bed/in his room/in his bedroom/in the room/in the bedroom/in Tuk's room/in Tuk's bed/in Tuk's bedroom	singular
+3711	Tuk	on horseback	singular
+3863	the knight	on horseback/behind Tuk/on the horse	singular
+3863	Tuk	on horseback/before the knight/on the horse	singular
+3973	Tuk	the old town of Bordingborg/Bordingborg/an old town/a town	singular
+3973	the knight	the old town of Bordingborg/Bordingborg/an old town/a town	singular
+4193	King Waldemar	the old town of Bordingborg/Bordingborg	singular
+4193	the maids of honor	the old town of Bordingborg/Bordingborg	plural
+4517	the school boys	the old town of Bordingborg/Bordingborg/the town	plural
+4820	Tuk	in his bed/in the bed/in his room/in his bedroom/in the room/in the bedroom/in Tuk's room/in Tuk's bed/in Tuk's bedroom	singular
+4999	the seaman	near Tuk	singular
+6155	Tuk	Corsor	singular
+8872	Augusta	over Zealand	singular
+9822	Tuk	out of bed/out of his bed/out of the bed/out of Tuk's bed	singular
+9946	the washerwoman	at the door/at their door/at Tuk's door	singular

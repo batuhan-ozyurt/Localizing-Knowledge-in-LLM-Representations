@@ -1,0 +1,134 @@
+Extractive
+
+Question: "{{question}}"
+Context: "{{context}}"
+Answer:
+
+Extract the answer to the question from the following context.
+Question: {{question}}
+Context: {{context}}
+
+Given the following passage
+"{{context}}",
+answer the following question. Note that the answer is present within
+the text.
+Question: {{question}}
+
+Please answer correctly the following question related to the paragraph
+below.
+{{ question }}
+{{ situation }}
+Hint: {{ background }}
+
+{{ situation }}
+Given the paragraph above, please answer correctly the following
+question:
+{{ question }}
+
+Background: {{ background }}
+Paragraph: {{ situation }}
+Given the paragraph above, please answer correctly the following
+question: {{ question }}
+
+Given the background: {{background}}
+and the situation: {{situation}}
+Answer the following question: {{question}}
+
+{{ situation }}
+{{ question }}
+
+I can use this background: {{background}}
+Now, I have a new situation: {{situation}}
+Answer this question please: {{question}}
+
+{{ situation }}
+Given the paragraph above, please answer correctly the following
+question:
+{{ question }}
+Hint: {{ background }}
+
+Multiple choice
+
+{{ question }}
+Choose the most suitable option to answer the above question.
+Options:
+- {{ answer_choices | join("\n- ") }}
+
+{{ question }}
+- {{ answer_choices | join("\n- ") }}
+The best answer is
+
+Read the following context and choose the best option to answer the
+question.
+Context: {{ context }}
+Question: {{ question }}
+Options:
+A. {{ answer0 }}
+B. {{ answer1 }}
+C. {{ answer2 }}
+D. {{ answer3 }}
+
+{{ context }}
+According to the above context, choose the best option to answer the
+following question.
+Question: {{ question }}
+Options:
+- {{answer_choices | join("\n - ")}}
+
+{{ context }}
+{{ question }}
+A. {{ answer0 }}
+B. {{ answer1 }}
+C. {{ answer2 }}
+D. {{ answer3 }}
+
+{{ context }}
+{{ question }}
+- {{ answer_choices | join("\n - ") }}
+
+{{ context }}
+According to the above context, choose the best option to answer the
+following question.
+Question: {{ question }}
+Options:
+A. {{ answer0 }}
+B. {{ answer1 }}
+C. {{ answer2 }}
+D. {{ answer3 }}
+
+{{ context }}
+{{ question }}
+Pick the best answer from the following options:
+A. {{ answer0 }}
+B. {{ answer1 }}
+C. {{ answer2 }}
+D. {{ answer3 }}
+
+{{ context }}
+{{ question }}
+Pick the best answer from the following options:
+- {{ answer_choices | join("\n - ") }}
+
+{{ context }}
+{{ question }}
+Pick the correct answer from the following options:
+- {{ answer_choices | join("\n- ") }}
+
+{{ context }}
+{{ question }}
+- {{ answer_choices | join("\n- ") }}
+
+{{ context }}
+According to the above context, choose the correct option to answer the
+following question.
+Question: {{ question }}
+Options:
+- {{ answer_choices | join("\n- ") }}
+
+
+Read the following context and choose the correct option to answer the
+question.
+Context: {{ context }}
+Question: {{ question }}
+Options:
+- {{ answer_choices | join("\n- ") }}

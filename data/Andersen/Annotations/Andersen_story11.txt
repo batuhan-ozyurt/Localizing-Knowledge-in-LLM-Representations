@@ -1,0 +1,5 @@
+char_no	character	location	singular/plural
+1071	two old snails	in the garden of the manor house/in the garden/the forest of burdocks/the forest	plural
+4628	the ant	in the garden of the manor house/in the garden/the forest of burdocks/the forest	singular
+5150	the gnats	in the garden of the manor house/in the garden/the forest of burdocks/the forest	plural
+5496	Miss Snail	in the garden of the manor house/in the garden/the forest of burdocks/the forest	singular

@@ -1,0 +1,12 @@
+char_no	character	location	singular/plural
+129	the old poet	in his room/in the room	singular
+266	the old poet	in his chimney-corner/in his chimney corner/in the chimney-corner/in the chimney corner/in his corner/in the corner/in his room/in the room	singular
+559	the child	at the door/at the poet's door/outside/under the rain/at the old poet's door	singular
+692	the old poet	at the door/in his room/in the room	singular
+904	the little boy	in a warm room/in the room/in a room/inside the old poet's house/in the old poet's room/in the poet's room/in the poet's house	singular
+1527	the old poet	beside his hearth/beside the hearth/in his room/in the room	singular
+1566	the little boy	in his lap/in the old poet's lap/in his room/in the room/in the warm room	singular
+1821	the little boy	round the kind old poet/round the old poet/round the poet/in his room/in the room/in the warm room	singular
+2513	the little boy	away the old poet's house/away/away the room/away the poet's house/away the poet's room/away the old poet's room	singular
+2739	the old poet	on the earth/on the floor/in his room/in the room	singular
+

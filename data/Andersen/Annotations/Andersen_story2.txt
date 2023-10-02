@@ -1,0 +1,19 @@
+char_no	character	location	singular/plural
+1131	the princess	in a large hall/large hall/home	singular
+1161	the ladies	in a large hall/large hall	plural
+1453	the emperor	in a large hall/large hall/home	singular
+2601	the prince	the castle/the door/the emperor's house/the palace/the princess's house	singular
+2601	the emperor	the castle/the door/the emperor's house/the palace/the princess's house/home	singular
+2839	the prince	a dirty little room close by the pigsty/his room/prince's room/by the pigsty/room	singular
+3448	the princess	near the swineherd's room/around the swineherd's room/near the swineherd's place/around the swineherd's place/on the street/the streets/outside/out	singular
+3919	the court lady	the swineherd's room/the swineherd's place/the swineherd's home	singular
+5541	the princess	near the swineherd's room/around the swineherd's room/near the swineherd's place/around the swineherd's place/on the street/the streets/outside/out	singular
+6606	the emperor	the balcony	singular
+6870	the emperor	the court-yard	singular
+6935	the court-ladies	the court-yard	plural
+6935	the princess	the court-yard	singular
+6935	the swineherd	the court-yard	singular
+7313	the princess	out of the city	singular
+7313	the swineherd	out of the city	singular
+7566	the swineherd	behind a tree	singular
+8045	the prince	the prince's kingdom/kingdom/his own kingdom/his kingdom/home/castle/palace/his own little kingdom	singular
